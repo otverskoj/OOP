@@ -1,0 +1,11 @@
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.exe
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.deps.json
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.runtimeconfig.json
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.runtimeconfig.dev.json
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.dll
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\bin\Debug\netcoreapp3.0\task_2.pdb
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\obj\Debug\netcoreapp3.0\task_2.csprojAssemblyReference.cache
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\obj\Debug\netcoreapp3.0\task_2.AssemblyInfoInputs.cache
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\obj\Debug\netcoreapp3.0\task_2.AssemblyInfo.cs
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\obj\Debug\netcoreapp3.0\task_2.dll
+C:\Users\oleg-\RiderProjects\lesson_7\task_2\obj\Debug\netcoreapp3.0\task_2.pdb

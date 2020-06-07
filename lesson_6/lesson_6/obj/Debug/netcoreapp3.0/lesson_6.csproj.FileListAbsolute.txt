@@ -1,0 +1,11 @@
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.exe
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.deps.json
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.runtimeconfig.json
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.runtimeconfig.dev.json
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.dll
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\bin\Debug\netcoreapp3.0\lesson_6.pdb
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\obj\Debug\netcoreapp3.0\lesson_6.csprojAssemblyReference.cache
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\obj\Debug\netcoreapp3.0\lesson_6.AssemblyInfoInputs.cache
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\obj\Debug\netcoreapp3.0\lesson_6.AssemblyInfo.cs
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\obj\Debug\netcoreapp3.0\lesson_6.dll
+C:\Users\oleg-\RiderProjects\lesson_6\lesson_6\obj\Debug\netcoreapp3.0\lesson_6.pdb

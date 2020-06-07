@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="451da737-4013-4da8-8392-6ed394371eec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/task_1/Delegates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task_1_tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task_2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task_2_tests/UnitTest1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task_2/Delegates.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/task_1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lesson_7/TestDelegate.cs" />
+        <option value="$PROJECT_DIR$/lesson_7/Delegates.cs" />
+        <option value="$PROJECT_DIR$/lesson_7/Program.cs" />
+        <option value="$PROJECT_DIR$/Tests/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/task_2/Program.cs" />
+        <option value="$PROJECT_DIR$/task_2/Delegates.cs" />
+        <option value="$PROJECT_DIR$/task_2_tests/UnitTest1.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z6YuM40hTISQ9kGgkTETp6Dcqp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected=".NET Project.task_2">
+    <configuration name="lesson_7" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task_1/task_1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="task_2" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/task_2/bin/Debug/netcoreapp3.0/task_2.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/task_2/bin/Debug/netcoreapp3.0" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/task_2/task_2.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v3.0" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Project.task_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="451da737-4013-4da8-8392-6ed394371eec" name="Default Changelist" comment="" />
+      <created>1584161244102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584161244102</updated>
+      <workItem from="1584161262154" duration="7353000" />
+      <workItem from="1584172897663" duration="1232000" />
+      <workItem from="1584363184401" duration="677000" />
+      <workItem from="1584530044592" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="WindowStateProjectService">
+    <state width="1869" height="260" key="GridCell.Tab.0.bottom" timestamp="1584168699649">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="260" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1584168699649" />
+    <state width="1869" height="260" key="GridCell.Tab.0.center" timestamp="1584168699649">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="260" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1584168699649" />
+    <state width="1869" height="260" key="GridCell.Tab.0.left" timestamp="1584168699649">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="260" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1584168699649" />
+    <state width="1869" height="260" key="GridCell.Tab.0.right" timestamp="1584168699649">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1869" height="260" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1584168699649" />
+    <state x="452" y="228" key="Rider.ProjectTemplateDialog.Size" timestamp="1584166872194">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="452" y="228" key="Rider.ProjectTemplateDialog.Size/0.40.1920.1040@0.40.1920.1040" timestamp="1584166872194" />
+    <state x="382" y="118" key="SettingsEditor" timestamp="1584161775658">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="382" y="118" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1584161775658" />
+  </component>
+</project>
